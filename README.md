@@ -2,6 +2,9 @@
 
 A Model Context Protocol (MCP) server for performing web searches using the Brave Search API.
 
+<p align="center"><img src="https://socialify.git.ci/oybekdevuz/brave-search-mcp/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+
 ## Features
 
 - Perform web searches using Brave Search API
